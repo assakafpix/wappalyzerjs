@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.generated.ts
+__pycache__/
+*.egg-info/
